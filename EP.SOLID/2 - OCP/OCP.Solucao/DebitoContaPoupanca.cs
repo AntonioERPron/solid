@@ -6,7 +6,7 @@
         {
             // Valida Aniversário da Conta
             // Debita Conta Corrente
-            return FormatarTransacao();
+            return NumeroTransacao;
         }
     }
 }

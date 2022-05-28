@@ -6,12 +6,13 @@
         {
             if (tipoConta == TipoConta.Corrente)
             {
+                // Logica de Negocio
                 // Debita Conta Corrente
             }
 
             if (tipoConta == TipoConta.Poupanca)
             {
-                // Valida Aniversário da Conta
+                // Logica de Negocio
                 // Debita Conta Poupança
             }
         }
